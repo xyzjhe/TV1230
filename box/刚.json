@@ -1,7 +1,7 @@
 
 
 {
-    "spider": "https://agit.ai/xiagang1230/TV/src/commit/2d7497fe80647e78a79d0dfae3c77fd69f899aee/box/spider.jar",
+    "spider": "https://agit.ai/xiagang1230/TV/src/branch/master/box/spider.jar",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "wallpaper": "http://itvbox.cc/api.php",
      "sites": [
