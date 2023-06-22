@@ -33,6 +33,17 @@
     },
 //下面是py与哔哩接口（py必须开始储存权限）        
         {
+      "key": "js豆瓣",
+      "name":"豆瓣┃推荐",
+      "type": 3,
+      "api": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/drpy.min.js",
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/drpy.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+        {
             "key": "py_cctv",
             "name": "CCTV（py必须开启储存权限）",
             "type": 3,
@@ -164,8 +175,8 @@
             "key": "dr_兔小贝",
             "name": "儿童┃启蒙",
             "type": 3,
-            "api": "./drpy.min.js",
-            "ext": "./js/兔小贝.js",
+            "api": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/drpy.min.js",
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/%e5%85%94%e5%b0%8f%e8%b4%9d.js",
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1
@@ -226,7 +237,7 @@
             "name": "┃七七┃js",
             "type": 3,
             "api": "./drpy2.min.js",
-            "ext": "./js/七七.js",
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/%e4%b8%83%e4%b8%83.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -284,8 +295,8 @@
       "ext":"http://cms.maoyingshi.cc/api.php/app/",
       "jar": "https://qu.ax/MHhv.jpg;md5;B8FA3D2B798DD85E23D35EBA410BA30C"
     },
-    {"key":"csp_appys_如意4K
-      ","name":"如意影视",
+    {"key":"csp_appys_如意4K",
+    name":"如意影视",
       "type":3,"api":"csp_AppYsV2",
       "searchable":1,
       "quickSearch":1,
@@ -774,7 +785,6 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "jar": "https://amanchi.netlify.app/jar/fm.jar",
       "ext":"https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"},
       {"key":"TuGou",
       "name":"土狗┃4k搜索",
