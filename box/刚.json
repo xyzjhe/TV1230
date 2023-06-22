@@ -236,7 +236,7 @@
             "key": "js七七",
             "name": "┃七七┃js",
             "type": 3,
-            "api": "./drpy2.min.js",
+            "api": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/drpy2.min.js",
             "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/js/%e4%b8%83%e4%b8%83.js",
             "searchable": 1,
             "quickSearch": 1,
