@@ -296,13 +296,14 @@
       "jar": "https://qu.ax/MHhv.jpg;md5;B8FA3D2B798DD85E23D35EBA410BA30C"
     },
     {"key":"csp_appys_如意4K",
-    name":"如意影视",
+    "name":"如意影视",
       "type":3,"api":"csp_AppYsV2",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
       "ext":"http://cms.maoyingshi.cc/api.php/app/"
       },
+
    {"key":"csp_appys_酷影TV",
    "name":"酷影┃蓝光app",
    "type":3,
@@ -323,7 +324,16 @@
             "playUrl": "",
             "ext": "https://www.freeok.vip/api.php/app/"
         },
-   {
+   { "key": "酷酷", 
+   "name": "┃酷酷┃影视app",
+    "type": 3, 
+    "api": "csp_AppYsV2",
+     "searchable": 1,
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "ext": "http://124.222.175.111:89/api.php/app/"
+       },
+     {
       "key": "酷影",
       "name": "酷影┃APP",
       "type": 3,
@@ -441,6 +451,16 @@
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/"
+    },
+     {
+      "key": "csp_DiDuan",
+      "name": "┃低端┃SP",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "click": "ddys.tv;#vjsp > button",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
       {
             "key": "csp_BuLei",
