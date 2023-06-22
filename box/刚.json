@@ -241,6 +241,26 @@
       "filterable": 1,
       "changeable": 0
     },
+   {
+      "key": "csp_DuoX",
+      "name": "多线┃APP",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+      {
+      "key": "如如",
+      "name": "龙飞┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://longfei.lfytyl.com/api.php/app/"
+    },
+
     {
       "key": "玩偶1",
       "name": "玩偶┃APP",
@@ -571,7 +591,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/jwkui9su.json"
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/nmys.json"
         },
          
         {
@@ -582,7 +602,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "./json/饭团影视.json"
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e8%a7%86.json"
         },
         {
             "key": "XBPQ_fant2",
@@ -592,7 +612,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "./json/饭团影院.json"
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e9%a5%ad%e5%9b%a2%e5%bd%b1%e9%99%a2.json"
         },
         {
       "key": "csp_量子",
@@ -602,7 +622,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/量子资源网.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e9%87%8f%e5%ad%90%e8%b5%84%e6%ba%90%e7%bd%91.json"
     },
     {"key":"98影院",
     "name":"98┃影视XBPQ",
@@ -610,7 +630,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"./json/98影院.json"
+    "ext":"https://agit.ai/xiagang1230/TV/raw/branch/master/json/98%e5%bd%b1%e9%99%a2.json"
     },
     {
       "key": "csp_非凡",
@@ -620,7 +640,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/非凡资源网.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e9%9d%9e%e5%87%a1%e8%b5%84%e6%ba%90%e7%bd%91.json"
     },
     {
       "key": "csp_魔力",
@@ -630,7 +650,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/魔力影视.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e9%ad%94%e5%8a%9b%e5%bd%b1%e8%a7%86.json"
     },
     {
       "key": "csp_明帝",
@@ -640,7 +660,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/明帝影视.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e6%98%8e%e5%b8%9d%e5%bd%b1%e8%a7%86.json"
     },
         {
       "key": "csp_真不卡",
@@ -650,7 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/真不卡影视.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e7%9c%9f%e4%b8%8d%e5%8d%a1%e5%bd%b1%e8%a7%86.json"
     },
     {
       "key": "csp_鸭奈飞",
@@ -660,7 +680,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/鸭奈飞影视.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"
     },
     {
       "key": "csp_蛋蛋",
@@ -670,7 +690,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/蛋蛋影视.json"
+      "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"
     },
 //以下阿里网盘搜索接口   
     {
@@ -755,7 +775,7 @@
       "quickSearch":1,
       "filterable":0,
       "jar": "https://amanchi.netlify.app/jar/fm.jar",
-      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"},
+      "ext":"https://agit.ai/xiagang1230/TV/raw/branch/master/json/%e8%9b%8b%e8%9b%8b%e5%bd%b1%e8%a7%86.json"},
       {"key":"TuGou",
       "name":"土狗┃4k搜索",
       "type":3,
@@ -773,10 +793,22 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/土拨鼠.json"
+            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
-      {"key":"量子","name":"量子","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
-    {"key":"非凡","name":"非凡","type":"0","api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
+      {"key":"量子",
+      "name":"量子",
+      "type":"0",
+      "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable":"1",
+      "changeable":"1",
+      "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
+    {"key":"非凡",
+    "name":"非凡",
+    "type":"0",
+    "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+    "searchable":"1",
+    "changeable":"1",
+    "categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},
         {
             "key": "push_agent",
             "name": "手机┃推送",
