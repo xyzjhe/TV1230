@@ -73,7 +73,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/bilibili.json"
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/bilibili/bilibili.json"
         },
         {
             "key": "csp_bilibili",
@@ -84,7 +84,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./json/bili.json"
+            "ext": "https://agit.ai/xiagang1230/TV/raw/branch/master/bilibili/bili.json"
         },
          {
             "key": "csp_bili歌曲",
