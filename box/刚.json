@@ -51,7 +51,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./py/py_cctv.py"
+            "ext": "​https://agit.ai/xiagang1230/TV/raw/branch/master/js/py_cctv.py"
         },
      {
       "key": "py_cctvzx",
@@ -61,7 +61,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./py/py_cctvzx.py"
+      "ext": "​https://agit.ai/xiagang1230/TV/raw/branch/master/js/py_cctvzx.py"
     },
        
     {
@@ -72,7 +72,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./py/py_xigua.py"
+            "ext": "​https://agit.ai/xiagang1230/TV/raw/branch/master/js/py_xigua.py"
         },
        
         {
