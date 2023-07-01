@@ -4,6 +4,13 @@
     "wallpaper": "http://itvbox.cc/api.php",
     "warningText": "自己家用接口，请勿外传，QQ：519023309",
      "sites": [
+     {"key":"好趣网",
+     "name":"电视 | 好趣网[js]",
+     "type":3,
+     "api":"https://agit.ai/xiagang1230/TV/raw/branch/master/js/drpy2.min.js",
+     "ext":"https://agit.ai/xiagang1230/TV/raw/branch/master/js/%e5%a5%bd%e8%b6%a3%e7%bd%91.js
+     },
+
      {      "key": "直播转点播",
        "name": "┃电视┃直播",
         "type": 3,      
