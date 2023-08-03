@@ -750,37 +750,7 @@
         },
 
 
- //下面开始py,比如{影视，影视仓，可以使用     
-      {
-      "key": "py_cctv",
-      "name": "央视栏目（py）",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "​./py/py_cctv"
-    },
-   {
-      "key": "py_bilibili",
-      "name": "歌曲（py）",
-      "type": 3,
-      "api": "py_bilibili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_bilibili.py"
-    },
-    {
-      "key": "py_kunyu77",
-      "name": "酷云七七(py)",
-      "type": 3,
-      "api": "py_kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./py/py_kunyu77.py"
-    },
+ 
 {"key":"本地","name":"本地[fm]","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0},
 
