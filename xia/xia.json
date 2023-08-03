@@ -68,6 +68,17 @@
 
 
 //下面开始SP播放（爬虫，直连）
+ {
+      "key": "csp_SP33",
+      "name": "三三┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+
 {
       "key": "csp_JianPian",
       "name": "荐片|推荐秒播",
@@ -695,7 +706,7 @@
             "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
 
-//下面开始ail，需要自己TOken,比如影视，影视仓可以使用         
+//下面开始ail，需要自己TOken      
       {
             "key": "Zhaozy",
             "name": "找资源┃4K搜索（要注册）",
@@ -777,6 +788,16 @@
             "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
         },
 
+//下面开始py,比如{影视，影视仓，可以使用
+      "key": "py_cctv",
+      "name": "央视栏目（py）",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "​./py/py_cctv.py"
+    },
 
 {"key":"本地","name":"本地[fm]","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0},
