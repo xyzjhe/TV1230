@@ -135,7 +135,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
-  
+  {
+      "key": "探探",
+      "name": "探探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {
       "key": "如如",
       "name": "龙飞┃App",
@@ -168,17 +177,7 @@
    "ext":"http://cms.wbsys.top:9835/api.php/app/"
    },
          
-{
-            "key": "csp_freeok",
-            "name": "Freeok┃app",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playUrl": "",
-            "ext": "https://www.freeok.vip/api.php/app/"
-        },
+
    
 { "key": "酷酷", 
    "name": "┃酷酷┃影视app",
