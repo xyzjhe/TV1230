@@ -530,104 +530,64 @@
     },
  {
  "key": "csp_非凡",
-
 "name": "非凡(XBPQ)",
-      
 "type": 3,
 "api": "csp_XBPQ",
-      
 "searchable": 1,
-      
 "quickSearch": 1,
-      
 "filterable": 1,
-      
 "ext": "./XBPQ/非凡资源网.json"
 },
     
 {
-      "key": "csp_魔力",
-      
-"name": "魔力(XBPQ)",
-      
-"type": 3,
-"api": "csp_XBPQ",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./XBPQ/魔力影视.json"
+  "key": "csp_魔力",
+  "name": "魔力(XBPQ)",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./XBPQ/魔力影视.json"
     },
     
 {
       "key": "csp_明帝",
-      
-"name": "明帝(XBPQ)",
-      
-"type": 3,
-"api": "csp_XBPQ",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./XBPQ/明帝影视.json"
+      "name": "明帝(XBPQ)",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/明帝影视.json"
     },
         
 {
       "key": "csp_真不卡",
-      
-"name": "不卡影视(XBPQ)",
-      
-"type": 3,
-"api": "csp_XBPQ",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./XBPQ/真不卡影视.json"
+      "name": "不卡影视(XBPQ)",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/真不卡影视.json"
     },
     
 {
       "key": "csp_鸭奈飞",
-      
-"name": "奈飞影视(XBPQ)",
-      
-"type": 3,
-"api": "csp_XBPQ",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./XBPQ/鸭奈飞影视.json"
+      "name": "奈飞影视(XBPQ)",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/鸭奈飞影视.json"
     },
     
 {
       "key": "csp_蛋蛋",
-      
-"name": "蛋蛋影视(XBPQ)",
-      
-"type": 3,
-"api": "csp_XBPQ",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./XBPQ/蛋蛋影视.json"
+      "name": "蛋蛋影视(XBPQ)",
+      "type": 3,"api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/蛋蛋影视.json"
     },
 
 //下面开始切片4部 
@@ -811,7 +771,7 @@
       "filterable": 1,
       "ext": "./py/py_bilibili.py"
     },
-   {
+    {
       "key": "py_kunyu77",
       "name": "酷云七七(py)",
       "type": 3,
