@@ -773,7 +773,7 @@
       "key": "py_kunyu77",
       "name": "酷云七七",
       "type": 3,
-      "api": "py_kunyu77",
+      "api": "py_kunyu77（py）",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -781,7 +781,7 @@
     },
  {
       "key": "py_cctv",
-      "name": "央视",
+      "name": "央视(py)",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -790,8 +790,18 @@
       "ext": "./py/py_cctv.py"
     },
 {
+      "key": "py_cctvzx",
+      "name": "央视大全(py)",
+      "type": 3,
+      "api": "py_cctvzx",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./py/py_cctvzx.py"
+    },
+{
       "key": "py_bilibili",
-      "name": "哔哩哔哩",
+      "name": "歌曲（py）",
       "type": 3,
       "api": "py_bilibili",
       "searchable": 1,
