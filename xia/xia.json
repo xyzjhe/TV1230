@@ -27,7 +27,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./bl/biliych.json"
+            "ext": "./json/biliych.json"
         },
 
 {
@@ -39,7 +39,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./bl/bili.json"
+            "ext": "./json/bili.json"
         },
         
 {
@@ -51,7 +51,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./bl/歌曲MV.json"
+            "ext": "./json/歌曲MV.json"
         },
         
 {
@@ -63,7 +63,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./bl/新哔哩.json"
+            "ext": "./json/新哔哩.json"
         },
 
 
@@ -769,7 +769,7 @@
 {
 "key": "py_kunyu77",
 
- name": "🔥酷云七七(py)",
+ name": "酷云七七(py)",
 "type": 3,
 "api": "py_kunyu77",
       
@@ -785,7 +785,7 @@
 {
 "key": "py_cctvzx.py",
 
- name": "🔥央视大全(py)",
+ name": "央视大全(py)",
 "type": 3,
 "api": "py_cctvzx.py",
       
@@ -800,7 +800,7 @@
 {
 "key": "py_cctv.py",
 
- name": "🔥CCTV(py)",
+ name": "CCTV(py)",
 "type": 3,
 "api": "py_cctv.py",
       
@@ -815,7 +815,7 @@
 {
 "key": "py_bilibili.py",
 
- name": "🔥歌曲(py)",
+ name": "歌曲(py)",
 "type": 3,
 "api": "py_bilibili.py",
       
@@ -1243,11 +1243,11 @@
       ]
     }
   ],
-  "lives": [
+   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./live.txt",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1259,7 +1259,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-  ],
+  ]
   "flags": [
     "youku",
     "优酷",
