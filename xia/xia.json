@@ -770,63 +770,35 @@
       },
 //下面开始PY，需要软件支持PY才可以（一般软件大于25M），比如（影视仓，影视）
 {
-"key": "py_kunyu77",
-
- name": "酷云七七(py)",
-"type": 3,
-"api": "py_kunyu77",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./py/py_kunyu77.py"
-},
-
+      "key": "py_kunyu77",
+      "name": "酷云七七",
+      "type": 3,
+      "api": "py_kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./py/py_kunyu77.py"
+    },
+ {
+      "key": "py_cctv",
+      "name": "央视",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./py/py_cctv.py"
+    },
 {
-"key": "py_cctvzx.py",
-
- name": "央视大全(py)",
-"type": 3,
-"api": "py_cctvzx.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./py/py_cctvzx.py"
-},
-
-{
-"key": "py_cctv.py",
-
- name": "CCTV(py)",
-"type": 3,
-"api": "py_cctv.py",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./py/py_cctv.py"
-},
-{
-"key": "py_bilibili.py",
-
- name": "歌曲(py)",
-"type": 3,
-"api": "py_bilibili.py",
-      
-"searchable": 1,
-      
-"quickSearch": 1,
-      
-"filterable": 1,
-      
-"ext": "./py/py_bilibili.py"
-},
+      "key": "py_bilibili",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "py_bilibili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./py/py_bilibili.py"
+    }
 {"key":"本地","name":"本地[fm]","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0},
 
