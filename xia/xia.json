@@ -14,7 +14,7 @@
 {"key":"哔哩","name":"哔哩[影视专用]","type":3,"api":"csp_Bili","jar":"./f1.jar",
 "ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会","cookie":""}},
 
-{"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/童趣.js"},
+{"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"./lib/drpy2.min.js","jar":"./f1.jar","ext":"./js/童趣.js"},
 
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兔小贝.js"},
 
@@ -88,7 +88,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./f1.jar"
+      "jar":"./tuipian.jar"
     },
    
 {
