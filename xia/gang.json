@@ -65,8 +65,8 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-     "jar":./tuipian.jar"
+      "filterable": 1,
+     "jar": "./tuipian.jar"
       },   
 {
       "key": "北极狐",
@@ -687,42 +687,43 @@
       "changeable":0,
       "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
       },
+
 {
-"key": "py_kunyu77",
-name": "77（py）",
-"type": 3,
-"api": "py_kunyu77",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./py/py_kunyu77.py"
-},
+      "key": "py_kunyu77",
+      "name": "酷云七七(py)",
+      "type": 3,
+      "api": "py_kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./py/py_kunyu77.py"
+    },
+ 
 {
-"key": "py_cctv.py",
-name": "CCTV（py）",
-"type": 3,
-"api": "py_cctv.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./py/py_cctv.py"
-},
+            "key": "py_cctv",
+            "name": "CCTV(py)",
+            "type": 3,
+            "api": "py_cctv",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./py/py_cctv.py"
+        },
 {
-"key": "py_bilibili.py",
-name": "歌曲（py）",
-"type": 3,
-"api": "py_bilibili.py",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "./py/py_bilibili.py"
-},
+      "key": "py_bilibili",
+      "name": "哔哩歌曲（py）",
+      "type": 3,
+      "api": "py_bilibili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./py/py_bilibili.py"
+    },
+
 
 {"key":"本地","name":"本地[fm]","type":3,"api":"csp_Local","searchable":0,"changeable":0},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0},
-
-{"key":"Live","name":"影视直播","type":3,"api":"csp_Live","ext":"2000"}],
-"lives":[{"name":"太阳","type":0,"url":"http://111.67.196.181/zhibo.txt"}],
+{"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
+],
 
 
    "parses": [
