@@ -422,7 +422,7 @@
 {"key":"drpy_js_鸭奈飞[V2]","name":"影视 | 鸭奈飞[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞[V2].js"},
 {"key":"drpy_js_看看剧[V2]","name":"影视 | 看看剧[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看剧[V2].js"},
 {"key":"drpy_js_UM电影[V2]","name":"影视 | UM电影[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/UM电影[V2].js"},
-{"key":"drpy_js_F7好看剧[V2]","name":"影视 | F7好看剧[V2][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/F7好看剧[V2].js"}，
+
 
 //下面开始XBPQ
 {
@@ -670,8 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./py/py_kunyu77.py"
-    }，
+      "ext": "./py/py_kunyu77.py"},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0},
 {"key":"本地","name":"本地视频","type":3,"api":"csp_Local","searchable":0,"changeable":0}                                                                        
 ],
