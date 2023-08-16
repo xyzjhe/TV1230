@@ -6,7 +6,7 @@
 {"key":"好趣网","name":"电视 | 好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
 {"key":"MV_vod","name":"电视┃MTV","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
 {"key":"drpy_js_我的哔哩","name":"我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
-{"key":"哔哩","name":"哔哩[影视专用]","type":3,"api":"csp_Bili","jar":"./f1.jar","ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会","cookie":""}},
+{"key":"哔哩","name":"哔哩[影视专用]","type":3,"api":"csp_Bili","jar":"./f.jar","ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会","cookie":""}},
 {"key":"drpy_js_童趣","name":"少儿 | 童趣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/童趣.js"},
 {"key":"drpy_js_兔小贝","name":"动漫 | 兔小贝[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兔小贝.js"},
 {
@@ -65,9 +65,8 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-     "jar": "./tuipian.jar"
-      },   
+      "filterable": 1
+     },   
 {
       "key": "北极狐",
       "name": "北极狐┃App",
@@ -445,7 +444,7 @@
 {"key":"drpy_js_快看","name":"影视 | 快看[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/快看.js"},
 {"key":"drpy_js_私人影院","name":"影视 | 私人影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/私人影院.js"},
 {"key":"drpy_js_磁力熊[磁]","name":"磁力 | 磁力熊[磁][js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/磁力熊[磁].js"},
-{"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js","playerType":"1"},
+{"key":"drpy_js_荐片","name":"影视 | 荐片[js]","type":3,"api":"./lib/drpy2.min.js","jar":"./f.jar","ext":"./js/荐片.js","playerType":"1"},
 {"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys.js"},
 {"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长资源.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
@@ -538,7 +537,7 @@
 "ext": "./XBPQ/蛋蛋影视.json"
     },
 
-//下面开始切片4部 
+//下面开始切片,采集
 {
       "key": "快看资源",
       "name": "快看┃切片",
@@ -569,7 +568,174 @@
         "动漫"
       ]
     },
-
+{
+"key": "明帝官采",
+"name": "明帝采集",
+"type": 1, 
+"api": "https://ys.md214.cn/api.php/provide/vod/", 
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories":[
+"电影",
+"连续剧",
+"综艺",
+"动漫",
+"直播"
+]},
+{
+            "key": "卧龙",
+            "name": "卧龙采集",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+            "playUrl":"https://yun.ckmov.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "电影解说",
+                "足球",
+                "篮球",
+                "国产剧",
+                "综艺",
+                "影片库",
+                "动漫"
+            ]
+        },
+{
+            "key": "干饭",
+            "name": "️干饭采集",
+            "type": 1,
+            "api": "http://124.220.183.81:83/api.php/provide/vod/",
+            "playUrl": "https://jx.bozrc.com:4433/player/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "电影",
+                "剧集",
+                "综艺",
+                "动漫"
+            ]
+        },
+{
+            "key": "天空",
+            "name": "天空采集",
+            "type": 1,
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "playUrl":"https://yun.ckmov.com/?url=",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "直播",
+                "短片",
+                "国产剧",
+                "综艺",
+                "影片库",
+                "动漫"
+            ]
+        },
+{
+            "key": "高清资源网",
+            "name": "高清采集",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/apijson.php",
+            "playUrl": "https://vip.zykbf.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "日本剧",
+                "泰国剧",
+                "韩国剧",
+                "台湾剧",
+                "香港剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+                ]
+        },
+{
+            "key": "易梦",
+            "name": "忆梦采集",
+            "type": 1,
+            "api": "http://anltv.cn/api.php/provide/vod/",
+           "playUrl":"https://yun.ckmov.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "直播",
+                "短片",
+                "国产剧",
+                "综艺",
+                "影片库",
+                "动漫"
+            ]
+        },
+{
+            "key": "飞速",
+            "name": "飞速采集",
+            "type": 1,
+            "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+            "playUrl":"https://yun.ckmov.com/?url=",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "综艺"
+            ]
+        },
 {
       "key": "暴风资源",
       "name": "暴风┃采集",
