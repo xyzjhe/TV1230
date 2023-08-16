@@ -1,7 +1,7 @@
 ﻿
 
 {
-    "spider": "./fanlao.jar",
+    "spider": "./fanlao.jar;ba66e79e5b4d95f2ebe906675c12f6c3",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "wallpaper": "http://itvbox.cc/api.php",
      "sites": [
