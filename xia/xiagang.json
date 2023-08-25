@@ -1,8 +1,8 @@
 
 
 {
-//"spider": "./fty.jar;md5;397475b17482bb3eefd6d1799c271bb0",
- "spider": "./spider.jar",
+"spider": "./fty.jar;md5;397475b17482bb3eefd6d1799c271bb0",
+ //"spider": "./spider.jar",
     //"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "wallpaper": "http://itvbox.cc/api.php",
      "sites": [
