@@ -342,6 +342,34 @@
       "ext": "./XBPQ/蛋蛋影视.json"
     },
  {
+      "key": "cjzy_快看",
+      "name": "快看采集",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "国产动漫",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },
+ {
         	"key": "秒看",      
         	"name": "秒看采集",     
         	"type": 1,      
