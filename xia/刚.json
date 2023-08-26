@@ -608,7 +608,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
       
       {
@@ -620,7 +620,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$xiagang1230$$$519023309"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "YiSo",
@@ -631,7 +631,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "PanSou",
@@ -642,7 +642,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "UpYun",
@@ -653,7 +653,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
         {
             "key": "PanSearch",
@@ -663,7 +663,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
         },
       {"key":"csp_阿里七夜",
       "name":"┃七夜┃4k搜索",
@@ -672,7 +672,7 @@
       "quickSearch":1,
       "filterable":0,
       "jar": "https://amanchi.netlify.app/jar/fm.jar",
-      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"},
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
       {"key":"TuGou",
       "name":"土狗┃4k搜索",
       "type":3,
@@ -680,7 +680,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":0,
-      "ext":"http://52bsj.vip:81/api/v3/file/get/145917/token.txt?sign=uzwdNvUxRmtTW2dt9HWkoAxmDUghK08QRKsaDiDNYXY%3D%3A0"
+      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"
       },
       {
             "key": "土拨鼠",
