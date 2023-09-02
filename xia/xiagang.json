@@ -48,7 +48,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": ".json/歌曲MV.json"
+            "ext": ".json/gequMV.json"
         },
         {
             "key": "csp_新Bili",
@@ -111,7 +111,7 @@
 	      "searchable":1,
 	      "quickSearch":1,        
 	       "filterable":1,
-	      "ext":"./json/戏曲.json"
+	      "ext":"./json/xiqu.json"
 	      },
 	      {
             "key": "少儿教育",
