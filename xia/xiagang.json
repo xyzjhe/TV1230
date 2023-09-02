@@ -48,7 +48,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
-            "ext": ".json/gequMV.json"
+            "ext": "./json/歌曲MV.json"
         },
         {
             "key": "csp_新Bili",
@@ -105,13 +105,13 @@
       "ext": "http://52bsj.vip:81/api/v3/file/get/138569/ych.json?sign=P4nax62AmXS9DiPSHZ3voiSYFU8r5Q_bjx8fmHLtdlM%3D%3A0"
     },   
     {
-	      "key":"戏曲",
-	      "name":"戏曲（B站）",
+	      "key":"csp_戏曲",
+	      "name":"戏曲",
 	      "type":3,"api":"csp_Bili",
 	      "searchable":1,
 	      "quickSearch":1,        
 	       "filterable":1,
-	      "ext":"./json/xiqu.json"
+	      "ext": "./json/戏曲.json"
 	      },
 	      {
             "key": "少儿教育",
