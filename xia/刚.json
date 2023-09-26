@@ -6,8 +6,8 @@
     "wallpaper": "http://itvbox.cc/api.php",
      "sites": [
      {"key":"好趣网","name":"电视直播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
-    { "key": "MV_vod","name": "MV(歌曲)","type": 3,"api":"./caiji.js","ext": "https://mv.wogg.link/mv/vod"},
-    {"key":"drpy_js_我的哔哩","name":"我的哔哩（歌曲）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
+    //{ "key": "MV_vod","name": "MV(歌曲)","type": 3,"api":"./caiji.js","ext": "https://mv.wogg.link/mv/vod"},
+  {"key":"drpy_js_我的哔哩","name":"我的哔哩（歌曲）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/我的哔哩.js"},
     {"key":"哔哩","name":"哔哩[影视专用]（歌曲）","type":3,"api":"csp_Bili","jar":"./f.jar",
 "ext":{"type":"抖音热歌#经典无损音乐合集#索尼音乐中国#帕梅拉#太极拳#广场舞#演唱会","cookie":""}},
     {
