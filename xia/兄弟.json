@@ -1,5 +1,5 @@
     {
-    "spider":"./fty.jar;md5;ccf8c13c728e50608be440312cddf01b",
+    "spider":"./fty.jar;md5;1837269d132674012cf5aa16c36171ae",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
     "sites":[
     {
@@ -22,6 +22,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
+            "playerType":"2",
             "ext": "./json/bili.json"
         },
     {
@@ -33,6 +34,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
+            "playerType":"2",
             "ext": "./json/biliych.json"
         },
     {
