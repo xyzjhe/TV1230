@@ -1,5 +1,5 @@
     {
-    "spider":"./fty.jar;md5;e12bec243efcf270b3812a46626a5374",
+    "spider":"./fty.jar;md5;02fae77802148faa9b1cccc380d889d1",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
    "sites":[
     {
@@ -1369,6 +1369,30 @@
     {"name":"量子廣告",
     "hosts":["vip.lz","hd.lz"],
     "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+      {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社 區",
+                "x u u",
+                "最 新",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                  "新片首发",
+                "UUE29"
+            ]
+        },
     {"name":"非凡廣告",
     "hosts":["vip.ffzy","hd.ffzy"],
     "regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
