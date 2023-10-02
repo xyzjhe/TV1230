@@ -222,6 +222,35 @@
     "filterable":1,
     "ext":"./bili/高中课堂.json"
     },
+    
+   {"key":"drpy_js_童趣",
+   "name":"童趣",
+   "type":3,
+   "api":"./lib/drpy2.min.js",
+   "ext":"./js/童趣.js"
+   },
+    {"key":"drpy_js_兔小贝",
+    "name":"兔小贝",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "ext":"./js/兔小贝.js"
+    },
+    
+    {"key":"boosj_open",
+    "name":"童趣[cat]",
+    "type":3,
+    "api":"./cat/童趣.js"
+    },
+    {"key":"tuxiaobei_open",
+    "name":"兔小贝[cat]",
+    "type":3,
+    "api":"./cat/兔小贝.js"
+    },
+    {"key":"ubestkid_open",
+    "name":"贝乐虎[cat]",
+    "type":3,
+    "api":"./cat/贝乐虎.js"
+    },
     {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0},
     {"key":"本地","name":"本地视频","type":3,"api":"csp_Local","searchable":0,"changeable":0}
     ],
