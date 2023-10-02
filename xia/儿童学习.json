@@ -12,7 +12,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"./bili/幼儿乐园.json"
-    },
+    }, 
     {
     "key":"儿童乐园",
     "name":"儿童乐园",
