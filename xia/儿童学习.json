@@ -1,6 +1,7 @@
 ﻿    {
     "spider":"./fty.jar;md5;ec6e9d23ff55ff17599f564f68654e12",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+    //"wallpaper":"本人的家庭接口和儿童接口全部来自己饭佬JAR和壁纸，接口只供自己家人和朋友在使用，如冒犯请联系本人删除（把接口发在饭佬频道，我看见会删除），非常感谢饭佬",
     "sites":[
     {
     "key":"幼儿乐园",
@@ -222,8 +223,7 @@
     "filterable":1,
     "ext":"./bili/高中课堂.json"
     },
-    
-   {"key":"drpy_js_童趣",
+    {"key":"drpy_js_童趣",
    "name":"童趣",
    "type":3,
    "api":"./lib/drpy2.min.js",
@@ -275,12 +275,7 @@
     "type":2,
     "url":"Sequence"
     },
-    {
-    "name":"自动解析",
-    "type":1,
-    "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-    {
+   {
     "name":"1号",
     "url":"https://dm.xmflv.com:4433/?url=",
     "type":0,
@@ -376,36 +371,7 @@
     ]
     }
     },
-    {
-    "name":"3-1",
-    "type":0,
-    "url":"https://vip.lianfaka.com/vip/?url=",
-    "ext":{
-    "flag":[
-    "qq",
-    "腾讯",
-    "qiyi",
-    "爱奇艺",
-    "奇艺",
-    "youku",
-    "优酷",
-    "mgtv",
-    "芒果",
-    "letv",
-    "乐视",
-    "pptv",
-    "PPTV",
-    "sohu",
-    "bilibili",
-    "哔哩哔哩",
-    "哔哩"
-    ],
-    "header":{
-    "User-Agent":"okhttp/4.1.0"
-    }
-    }
-    },
-    {
+   {
     "name":"4号",
     "type":0,
     "url":"https://jx.bozrc.com:4433/player/?url=",
@@ -566,11 +532,6 @@
     }
     },
     {
-    "name":"9号",
-    "type":0,
-    "url":"http://www.miaoys.cc/vip/?url="
-    },
-    {
     "name":"10号",
     "type":0,
     "url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
@@ -600,57 +561,7 @@
     }
     }
     },
-    {
-    "name":"11号",
-    "type":0,
-    "url":"https://jxdp.codermart.net/?url=",
-    "ext":{
-    "flag":[
-    "qq",
-    "腾讯",
-    "qiyi",
-    "爱奇艺",
-    "奇艺",
-    "youku",
-    "优酷",
-    "mgtv",
-    "imgo",
-    "芒果",
-    "letv",
-    "乐视",
-    "pptv",
-    "PPTV",
-    "sohu",
-    "bilibili",
-    "哔哩哔哩",
-    "哔哩"
-    ],
-    "header":{
-    "User-Agent":"okhttp/4.1.0"
-    }
-    }
-    },
-    {
-    "name":"12号",
-    "type":0,
-    "url":"https://jx.xmflv.com/?url="
-    },
-    {
-    "name":"13号",
-    "type":0,
-    "url":"https://www.pouyun.com/?url="
-    },
-    {
-    "name":"14号",
-    "type":0,
-    "url":"https://api.jiexi.la/?url="
-    },
-    {
-    "name":"15号",
-    "type":0,
-    "url":"https://www.pangujiexi.com/pangu/?url="
-    },
-    {
+   {
     "name":"感谢饭佬",
     "type":1,
     "url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
