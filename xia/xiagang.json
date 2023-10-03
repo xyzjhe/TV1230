@@ -4,7 +4,7 @@
    "sites":[
     {
     "key":"js豆豆",
-    "name":"豆豆（电视筛选）",
+    "name":"电影筛选",
     "type":3,
     "api":"./lib/drpy2.min.js",
     "ext":"./js/drpy.js",
@@ -13,6 +13,29 @@
     "filterable":0
     },
     {
+      "key":"好趣网",
+      "name":"电视|好趣",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/好趣网.js"
+      },
+    {
+            "key": "直播转点播",
+            "name": "电视┃仓库",
+            "type": 3,
+            "api": "./lib/直播转点播2.js",
+            "ext": "./json/直播仓.json"
+        },
+    {
+            "key": "MV_vod",
+            "name": "MV",
+            "type": 1,
+            "api": "https://mv.wogg.link/mv/vod",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+         {
             "key": "csp_wogg_cli",
             "name": "玩偶[T4]",
             "type": 4,
@@ -48,8 +71,7 @@
     {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
     {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
     {"key":"libvio_open","name":"利播[cat]","type":3,"api":"./cat/libvio_open.js"},
-    {"key":"好趣网","name":"电视|好趣网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣网.js"},
-     {
+    {
     "key":"姐姐",
     "name":"玩偶姐姐",
     "type":3,
