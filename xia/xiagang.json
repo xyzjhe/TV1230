@@ -1,5 +1,5 @@
     {
-    "spider":"./fty.jar;md5;39e42fe47bf0323fbfdc8c32d9f390f3",
+    "spider":"./fty.jar;md5;9599ee4bf4ebdc1fb0f3af303b1f4781",
     "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
    "sites":[
     {
@@ -26,6 +26,11 @@
             "api": "./lib/直播转点播2.js",
             "ext": "./json/直播仓.json"
         },
+    {"key":"cntv","name":"央视[cat]","type":3,"api":"./cat/cntv_open.js"},
+    {"key":"kunyu77","name":"七七[cat]","type":3,"api":"./cat/kunyu77_open.js"},
+    {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
+    {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
+    {"key":"libvio_open","name":"利播[cat]","type":3,"api":"./cat/libvio_open.js"},
     {
             "key": "MV_vod",
             "name": "MV",
@@ -67,10 +72,6 @@
             "filterable": 1,
             "timeout": 30
         },
-    {"key":"kunyu77","name":"七七[cat]","type":3,"api":"./cat/kunyu77_open.js"},
-    {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js"},
-    {"key":"czzy","name":"厂长资源[cat]","type":3,"api":"./cat/czzy_open.js"},
-    {"key":"libvio_open","name":"利播[cat]","type":3,"api":"./cat/libvio_open.js"},
     {
     "key":"姐姐",
     "name":"玩偶姐姐",
